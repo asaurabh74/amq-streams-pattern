@@ -1,0 +1,4 @@
+global:
+  datacenter:
+    clustername: datacenter-XXXXX
+    domain: BASEDOMAIN
